@@ -1,0 +1,9 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://example.com/collection.json",
+    "type": "Collection",
+    "label": { "en": [ "Rita Dove Interview, 9/24/2004" ] },
+    "summary": { "en": [ "Rita Dove and Camille Dungy discuss Dove's new book American Smooth (2004), before moving into a broader discussion of her work and life." ] },
+    "items": [
+    ]
+}
